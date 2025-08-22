@@ -8,8 +8,11 @@
     --dark: rgba(139, 65, 139, 0.5);
     --light: rgba(255, 188, 252, 0.5); 
     background-image: url(TOPBackground.png);
-    background-size:100%;
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
+
 .login-full{
     
     position:fixed;
