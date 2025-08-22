@@ -13,9 +13,9 @@
 .login-full{
     
     position:fixed;
-    left:60%;
+    left:25%;
     height: 101%;
-    width: 40%;
+    width: 50%;
     background:var(--light);
     top:-1%;
 }
@@ -93,24 +93,25 @@
 }
 .redacted-img{
     position:fixed;
-    left:7%;
-    top:7%;
-    scale: 100%;
+    left:25%;
+    top: 0%;
+    scale: 80%;
 }
 .redacted-login-text{
     position: fixed;
-    top:-60%;
+    top:-80%;
     left:20.6%;
 }
 .noacc{
     position: fixed;
-    top:85%;
-    left: 71%;
+    top:70%;
+    left: 40%;
 }
 a:visited{
     color: blue;
 
 }
+
 .a-gun{
     position: fixed;
     left: 40%;
