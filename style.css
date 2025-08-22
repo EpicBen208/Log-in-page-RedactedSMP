@@ -118,4 +118,11 @@ a:visited{
     top: 40%;
     scale: 300%;
 }
+
+@media only screen and (max-width: 600px) {
+  :root{
+    background-image: url(TOPBackground.png);
+    background-size: 300%;
+  }
+}
 /*version 2
